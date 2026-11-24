@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Companions-AI-Avatars/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Companions-AI-Avatars?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Companions-AI-Avatars/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Companions-AI-Avatars?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Companions-AI-Avatars/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Desktop-Companions-AI-Avatars?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Companions-AI-Avatars/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,7 +69,7 @@ The table below lists leading hosted consumer AI companion platforms, sorted in 
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source frameworks, desktop mascot runtimes, 3D VRM/Live2D engines, voice synthesis pipelines, and character frontends. Sorted in **descending order by GitHub star count**.
+Curated list of open-source frameworks, desktop mascot runtimes, 3D VRM/Live2D engines, voice synthesis pipelines, and character frontends. Sorted in **descending order by GitHub Stars_Count**.
 
 1. **[ollama/ollama](https://github.com/ollama/ollama)**  
    [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
@@ -183,7 +183,7 @@ Contributions are warmly welcomed! Help keep this directory current, accurate, a
 1. **Fork the repository** to your GitHub profile.
 2. **Add or update an entry** in `README.md`:
    * For SaaS products: Provide platform name, direct link, starting paid tier pricing, exact free tier limits, and verifiable company scale metrics.
-   * For Open-Source projects: Provide repository name (`owner/repo`), description, and ensure star badge formatting links directly to the repo stargazers page.
+   * For Open-Source projects: Provide repository name (`owner/repo`), description, and ensure Stars_Badge formatting links directly to the repo stargazers page.
 3. **Submit a pull request** with a concise description of your additions.
 
 ---
